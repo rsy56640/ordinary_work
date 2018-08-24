@@ -1,3 +1,10 @@
+"""
+TODO:
+    - cpe
+    - double-hinge
+    - input matrix
+"""
+
 from enum import Enum
 import numpy as np
 
