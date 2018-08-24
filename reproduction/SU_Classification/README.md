@@ -1,2 +1,3 @@
 论文 - [Bao, H., Niu, G., & Sugiyama, M. Classification from Pairwise Similarity and Unlabeled Data. In Proceedings of International Conference on Machine Learning (ICML), 2018.](https://arxiv.org/abs/1802.04381)    
-作者实现 - [Implementation for "Classification from Pairwise Similarity and Unlabeled Data"](https://github.com/levelfour/SU_Classification)   
+作者实现 - [Implementation for "Classification from Pairwise Similarity and Unlabeled Data"](https://github.com/levelfour/SU_Classification)    
+给作者提issue： [possible mistake in SU_SL implementation](https://github.com/levelfour/SU_Classification/issues/1)   
